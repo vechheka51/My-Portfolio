@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700;800;900&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+
+<header>
+  <a href="#home" class="logo">VK<span>✦</span></a>
+
+  <nav>
+    <a href="#profile">PROFILE</a>
+    <a href="#projects">PROJECT</a>
+    <a href="#contact">CONTACT PERSON</a>
+  </nav>
+</header>
+
+<!-- HOME -->
+<section id="home" class="hero">
+
+  <div class="hero-logo">VK</div>
+
+  <div class="hero-content">
+    <div class="hero-photo">
+      <img src="VK. PNG.png" alt="Description" width="500" height="500">
+    </div>
+
+    <div>
+      <h1>PORTFOLIO <span>2026</span></h1>
+      <p class="role">■ creative content creator</p>
+    </div>
+  </div>
+
+  <div class="hero-menu">
+    <a href="#profile">START</a>
+    <a href="#projects">OPTIONS</a>
+    <a href="#contact">EXIT</a>
+  </div>
+
+</section>
+
+<!-- PROFILE -->
+<section id="profile" class="section profile">
+
+  <div class="section-nav">
+    <span class="logo">VK</span>
+    <span>PROFILE</span>
+  </div>
+
+  <div class="profile-grid">
+
+    <div class="profile-left">
+      <p>HELLO, I AM</p>
+      <h2>OL VICHEKA</h2>
+
+      <img src="Telegram profile.jpg" alt="Profile Photo" width="300" height="300" class="Telegram-profile">
+    </div>
+
+    <div class="profile-right">
+
+      <h2>ABOUT ME</h2>
+      <p>
+        Hello, my name is Your OL VICHEKA. I am a creative content creator
+        passionate about graphic design, video editing, photography,
+        and digital storytelling. I enjoy creating meaningful visual
+        experiences and continuously improving my creative skills.
+      </p>
+
+      <h2>SOFTWARE SKILLS</h2>
+
+      <div class="skills">
+        <div>Ps</div>
+        <div>Pr</div>
+        <div>Lr</div>
+        <div>Ai</div>
+        <div>CAP</div>
+        <div>DV</div>
+      </div>
+
+      <div class="details">
+
+        <div>
+          <h3>EDUCATION</h3>
+          <p>2025 - 2026</p>
+          <p>National Institute of Business</p>
+
+          <h3>LANGUAGE</h3>
+          <p>KHMER — 100%</p>
+          <p>ENGLISH — 70%</p>
+        </div>
+
+        <div>
+          <h3>EXPERIENCE</h3>
+          <p>CONTENT CREATOR</p>
+          <p>Graphic Design</p>
+          <p>Video Editing</p>
+          <p>Digital Marketing</p>
+
+          <h3>MY SPECIALTY</h3>
+          <p>Creative Design</p>
+          <p>Video Editing</p>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- PROJECT -->
+
+<section id="projects" class="projects">
+
+    <!-- Top Navigation -->
+    <div class="project-nav">
+        <a href="#profile">PROFILE</a>
+        <a href="#projects" class="active">PROJECT</a>
+        <a href="#contact">CONTACT PERSON</a>
+    </div>
+
+    <!-- Project Heading -->
+    <div class="project-heading">
+        <h1>RECAP PROJECT 2026 <span>NO AI</span></h1>
+    </div>
+
+    <!-- Project Collage -->
+    <div class="project-gallery">
+
+        <!-- Left: Tall Project -->
+        <div class="gallery-item left-project">
+            <img src="vk.jpg" alt="PR POSTER FUNNY">
+        </div>
+
+        <!-- Top Center Left -->
+        <div class="gallery-item brand-project">
+            <img src="តោះទៅស្រុក_ភ្ជុំបិណ្ឌ.jpg" alt="Brand Design">
+        </div>
+
+        <!-- Top Center Right -->
+        <div class="gallery-item print-project">
+            <img src="Print.jpg" alt="Print Design">
+        </div>
+
+        <!-- Top Right Logo -->
+        <div class="gallery-item logo-project">
+            <img src="JPECG.-file.jpg" alt="Logo Design">
+        </div>
+
+        <!-- Far Right Artwork -->
+        <div class="gallery-item dark-project">
+            <img src="ម្លិះសែនក្រអូប_ភ្ជុំបិណ្ឌLayout.jpg" alt="Promotion Poster Design">
+        </div>
+
+        <!-- Bottom Center: Photography -->
+        <div class="gallery-item photo-project">
+            <img src="Sale Online.jpg" alt="Hiring Poster Design">
+        </div>
+
+        <!-- Bottom Center: Poster -->
+        <div class="gallery-item poster-project">
+            <img src="Main02.jpg" alt="Poster Design">
+        </div>
+
+        <!-- Bottom Right: Artwork -->
+        <div class="gallery-item artwork-project">
+            <img src="Cover.jpg" alt="Creative Artwork">
+        </div>
+
+        <!-- Bottom Left Logos -->
+        <div class="gallery-item logo-small logo-one">
+            <img src="Telegram profile.jpg" alt="Personal Logo">
+        </div>
+
+
+    </div>
+
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="section contact">
+
+  <div class="section-nav">
+    <span class="logo">VK</span>
+    <span>CONTACT PERSON</span>
+  </div>
+
+  <div class="contact-grid">
+
+    <div>
+      <h2>CONTACT ME</h2>
+
+       <img class="co" src="contact.jpg" alt="My Photo">
+
+      <div class="social">
+        <a href="https://t.me/@olvicheka">&#9992; Telegram</a>
+        <a href="https://tiktok.com/@olvechheka">♪ TikTok</a>
+        <a href="https://youtube.com/@olvechheka2006">▶ YouTube</a>
+        <a href="mailto:vechheka112233@gmail.com">✉ Email</a>
+      </div>
+
+      <p>OL VICHEKA / 2026</p>
+    </div>
+
+    <div class="thank">
+      <h1>THANK YOU</h1>
+      <h2>2026</h2>
+    </div>
+
+  </div>
+
+  <footer>
+    © 2026 OL VICHEKA — ALL RIGHTS RESERVED
+  </footer>
+
+</section>
+
+</body>
+</html>
